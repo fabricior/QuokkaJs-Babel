@@ -1,0 +1,22 @@
+{
+  "name": "quokkajs-babel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "fabricior",
+  "license": "MIT",
+  "quokka": {
+    "babel": true
+  },
+  "dependencies": {
+    "timeago.js": "^3.0.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
