@@ -1,4 +1,4 @@
-# QuokkaJs-Babel
+# QuokkaJs with Babel Project Template
 
 > Ready-to-run QuokaJs with Babel project 
 
