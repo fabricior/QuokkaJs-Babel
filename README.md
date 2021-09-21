@@ -1,6 +1,6 @@
 # QuokkaJs-Babel
 
-> Ready-to-tun QuokaJs with Babel project 
+> Ready-to-run QuokaJs with Babel project 
 
 ## How to use it
 
