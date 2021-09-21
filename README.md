@@ -14,6 +14,9 @@
 npm install
 ```
 
-- Step 3: Enjoy!
+- Step 3: Add QuokaJs files
 
-New time you add new QuokkaJs file to your project (or just use dummyTest.js) all ES features will be supported.
+In Visual Studio Code:
+- Press `Ctrl/Cmd + Shift + P` to display the editor’s command palette
+- Type *Quokka* to see the list of the available commands.
+- Select and run the *New JavaScript File* command
