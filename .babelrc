@@ -1,6 +1,7 @@
 {
   "env": { "dev": {} },
   "presets": ["@babel/preset-env"],
-  "plugins": [    
+  "plugins": [
+    ["@babel/plugin-proposal-pipeline-operator", { "topicToken": "^^", "proposal": "minimal" }]        
   ]
 }

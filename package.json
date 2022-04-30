@@ -9,9 +9,9 @@
   "quokka": {
     "babel": true
   },
-  "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.17.10",
+    "@babel/plugin-proposal-pipeline-operator": "^7.17.6",
     "@babel/preset-env": "^7.17.10"
   }
 }
